@@ -1,6 +1,6 @@
 # Prerequisites and preparatory materials for Computational Tools for Climate Science
 
-Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/mission)! We're really excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
+Welcome to the [Climatematch Academy](https://neuromatch.io/climate-science/)! We're really excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
 
 ## Contents
 
@@ -18,57 +18,35 @@ Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/miss
 ## Programming
 
 
-We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the **Python pre-course**, which offers asynchronous support for a selection of tutorials [from Project Pythia](https://foundations.projectpythia.org/landing-page.html):
+We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the self-guided **Python pre-course** utilizing Project Pythia's materials. 
 
-- Preamble and Foundational Skills: Overview, Why Python, Quickstart: Zero to Python (under the heading “Getting Started with Python”), JupyterLab (under the heading “Getting Started with Jupyter”), What is Github (under the heading “Getting Started with GitHub”) (~3.5 hours)
+What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
+
+Now, let's sumarize what are the lessons you need to review:
+
+- [Preamble and Foundational Skills](https://bit.ly/4429kYQ): Overview, Why Python, Quickstart: Zero to Python (under the heading “Getting Started with Python”), JupyterLab (under the heading “Getting Started with Jupyter”), What is Github (under the heading “Getting Started with GitHub”) (~3.5 hours)
     
 - Core Scientific Python Packages: NumPy, Matplotlib, Cartopy, Datetime, Pandas, Data formats (~6 hours). Xarray will be a part of the course Computational Tools for Climate Science, so you do not need to learn it beforehand.
     
 
-- Here [is a breakdown of times per lesson](https://docs.google.com/spreadsheets/d/e/2PACX-1vRzeCfv_gIISMIp3ef6e_cB4ZcI1mGkI5H6ZHZO5moFTrnGCMQHyfVCVikb09PmDs4GNBTSgNDWsPwQ/pubhtml?gid=0&single=true). The topics highlighted in blue are the only mandatory lessons that we expected you have covered in preparation for the course Computational Tools for Climate Science. 
+- Here [is a breakdown of times per lesson](https://bit.ly/3CHhjid). The topics highlighted in blue are the only mandatory lessons that we expected you have covered in preparation for the course Computational Tools for Climate Science. 
     
-
-  
-
-You will work through the material at your own pace, getting asynchronous help on Discord as needed during July 12-14. To ensure clarity and set proper expectations, let’s revisit what you can expect from the **Python pre-course** and what you should not expect.
 
 **What You Can Expect from the Python pre-course**
 
-- Asynchronous Support via Discord: Throughout the duration of the precourse, (July 12-14), our team will provide support through the Discord platform. You will have the opportunity to ask questions and seek assistance via chat. Please note that we will not be conducting any video calls or virtual classes during the Python pre-course.
-    
-
-  
+- The pre-course is completely self-guided and to be done on your own time.
 
 - Self-Study Approach: The precourse is not designed as a traditional course with lectures and guided lessons. Instead, we have curated a collection of comprehensive learning materials for you to study independently. These materials are accessible through the link provided. It is essential that you dedicate sufficient time and effort to self-study the content at your own pace.
     
 - Prior Programming Experience Advantage: If you have prior experience in programming, you may find this precourse relatively easier to grasp. 
     
 
- - For those without any previous programming background, it is crucial to start studying the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before July 17th.
+ - For those without any previous programming background, it is crucial to start studying the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before the start of the course.
     
 - You won't need to install Python on your computer for the Python pre-course. You literally just need to hit the rocket-shaped button in the upper right corner of the lessons (see image below) and sign in using your Github account. 
-    
-
-  
+![Launch Binder](../images/binder.png)
 
 - The section [“How to use this book”](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book) provides you with alternative options to run the Python code.
-
-- If nothing works, please don’t panic. Sometimes depending on your region, your internet access, and your computer, some challenges may arise, but we will be happy to assist you. Please email  [python_precourse@climatematch.io](mailto:python_precourse@climatematch.io) if you need help.
-    
-
-**What You Should Not Expect  from the Python pre-course**
-
-- Guided Instruction: Please be aware that the Python precourse does not include virtual online classes or guided instruction. While our team will be available for support via Discord chat during July 12-14, the onus is on you to study the material independently and seek clarification as needed.
-    
-
-  
-
-- Traditional Classroom Environment: Unlike traditional courses where you attend classes and follow a set schedule, the precourse relies on your self-motivation and discipline to study the provided materials. There will not be any fixed class times or mandatory attendance.
-    
-
-  
-
-- In-depth Coverage of Advanced Topics: The Python pre-course primarily focuses on introducing the fundamentals of Python programming. It does not delve into advanced topics.
     
 
   
@@ -88,12 +66,12 @@ Climatematch Academy relies on linear algebra, probability, basic statistics, an
   
 
 ### Algebra
-If you need a refresher on basic, pre-calculus algebra check the videos in this [Algebra course](https://www.khanacademy.org/math/algebra) from Khan Academy. You will particularly need to know your way around [functions](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions) (unit 8 of the course) and their representations, including graphics, because they are the way to express relationships between variables and they are the basic elements you work with in Calculus. 
+If you need a refresher on basic, pre-calculus algebra check the videos in this [Algebra course](https://bit.ly/3Pnq5cP) from Khan Academy. You will particularly need to know your way around [functions](https://bit.ly/43H5mox) (unit 8 of the course) and their representations, including graphics, because they are the way to express relationships between variables and they are the basic elements you work with in Calculus. 
 
   
 
 ### Linear algebra
-You will need a good grasp of the basics of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. It will also help you visualize and understand the way data are organized and manipulated, particularly in computational environments. You need to have a basic understanding of vectors and matrices, and how to perform operations with them. We recommend watching the videos in these units about [vectors](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors) and [matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices) from Khan Academy. That should be enough to prepare you for CMA. 
+You will need a good grasp of the basics of linear algebra to follow along, as linear algebra is crucial for almost anything quantitative involving more than one number at a time. It will also help you visualize and understand the way data are organized and manipulated, particularly in computational environments. You need to have a basic understanding of vectors and matrices, and how to perform operations with them. We recommend watching the videos in these units about [vectors](https://bit.ly/3NcM2IK) and [matrices](https://bit.ly/3CDXurX) from Khan Academy. That should be enough to prepare you for CMA. 
 
 > Extra material. 
 >
@@ -102,12 +80,12 @@ You will need a good grasp of the basics of linear algebra to follow along, as l
   
 
 ### Statistics
-Understanding statistics is also important; you should be comfortable with mean/median/mode, standard deviations, variances, the normal distribution, and linear regression. We recommend the [Statistics and probability course](https://www.khanacademy.org/math/statistics-probability) (videos in units 3, 4 and 5) from Khan Academy. 
+Understanding statistics is also important; you should be comfortable with mean/median/mode, standard deviations, variances, the normal distribution, and linear regression. We recommend the [Statistics and probability course](https://bit.ly/3CGx6h2) (videos in units 3, 4 and 5) from Khan Academy. 
 
   
 
 ### Calculus
-Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, we recommend the [Calculus course](https://www.khanacademy.org/math/calculus-1) from Khan Academy (videos in units 2, 5, 6, and 7). Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=math&levels=university&type=html,prototype) from PHET to help illustrate some mathematical concepts.
+Finally, basic calculus is crucial; you should know what integrals and derivatives are, and understand what a differential equation means. If you need to refresh your memory on differential and integral calculus, we recommend the [Calculus course](https://bit.ly/3Nk4sXV) from Khan Academy (videos in units 2, 5, 6, and 7). Remember that you don’t need to learn all the details and be able to solve complicated problems, just make sure you understand the concepts. We also recommend [these simulations](https://phet.colorado.edu/en/simulations/filter?subjects=math&levels=university&type=html,prototype) from PHET to help illustrate some mathematical concepts.
 
 > Extra material:
 >  
@@ -145,7 +123,7 @@ It would be helpful to have general chemistry knowledge regarding atoms, isotope
 
 ### Climate Science
 
-If you're coming from outside climate science, it'll be great to familiarize yourself with fundamental concepts. Watch this [video](https://www.khanacademy.org/science/middle-school-earth-and-space-science/x87d03b443efbea0a:earth-and-society/x87d03b443efbea0a:earths-changing-climate/v/earths-changing-climate), to build some context for CMA. As a good accompanying resource for CMA and if you’d like to learn more about climate science, we highly recommend Andreas Schmitner’s [Introduction to Climate Science](https://open.umn.edu/opentextbooks/textbooks/860) book.
+If you're coming from outside climate science, it'll be great to familiarize yourself with fundamental concepts. Watch this [video](https://bit.ly/3NEDdsJ), to build some context for CMA. As a good accompanying resource for CMA and if you’d like to learn more about climate science, we highly recommend Andreas Schmitner’s [Introduction to Climate Science](https://open.umn.edu/opentextbooks/textbooks/860) book.
 
   
   
